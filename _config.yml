@@ -13,7 +13,7 @@ plugins:
 # Optional configurations
 
 # URL configuration
-url: https://yourusername.github.io  # Replace with your actual GitHub Pages URL
+url: https://github.com/Oury90  # Replace with your actual GitHub Pages URL
 baseurl: ""  # Leave empty unless your site is in a subpath (e.g., "/blog")
 
 # Exclude files and directories from the build
