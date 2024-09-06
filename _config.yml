@@ -9,7 +9,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Oury
-logo: images/image3.png
+logo: /images/image3.png
 description: [A short description of your site's purpose]
 show_downloads: "true"
 
