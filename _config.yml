@@ -10,25 +10,4 @@ remote-theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# Optional configurations
 
-# URL configuration
-url: https://github.com/Oury90  # Replace with your actual GitHub Pages URL
-baseurl: ""  # Leave empty unless your site is in a subpath (e.g., "/blog")
-
-# Exclude files and directories from the build
-exclude:
-  - README.md
-  - LICENSE
-  - .gitignore
-
-# Permalinks
-permalink: /:categories/:title/
-
-# Markdown processor
-markdown: kramdown
-
-# Social media links (if applicable)
-social:
-  twitter: "your_twitter_handle"
-  github: "your_github_username"
