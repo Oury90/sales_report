@@ -1,18 +1,7 @@
-# title: Oury
-# logo: assets/images/image3.jpeg
-# show-downloads: true
-# remote-theme: pages-themes/minimal@v0.2.0
-
-# plugins:
-#   - jekyll-remote-theme
-
-  # Jekyll configuration file for GitHub Pages
 
 # Site settings
 title: Oury
 description: Your site's description here.
-#url: https://yourusername.github.io
-baseurl: ""  # Leave this empty unless you are using a subpath
 logo: assets/images/image3.jpeg
 show-downloads: true
 
@@ -23,23 +12,3 @@ remote-theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-# Build settings
-markdown: kramdown
-theme: "minimal"
-
-# Exclude files and directories from the build
-exclude:
-  - README.md
-  - LICENSE
-
-# Permalinks
-permalink: /:categories/:title/
-
-# Social media links
-social:
-  twitter: "your_twitter_handle"
-  github: "your_github_username"
-
-# Locale and timezone settings
-locale: en
-timezone: "UTC"
