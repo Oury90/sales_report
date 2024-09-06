@@ -2,7 +2,7 @@
 # Site settings
 title: Oury
 description: Your site's description here.
-logo: assets/images/image3.jpeg
+logo: /assets/images/image3.jpeg
 show-downloads: true
 
 # Theme settings
