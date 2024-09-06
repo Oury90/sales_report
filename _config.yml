@@ -1,6 +1,6 @@
 # Site settings
 title: Oury
-logo: /assets/images/image3.png
+logo: ./assets/images/image3.png
 show-downloads: true
 
 # Theme settings
